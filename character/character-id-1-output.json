@@ -1,0 +1,11 @@
+{
+  "data": {
+    "character": {
+      "id": "1",
+      "name": "Rick Sanchez",
+      "gender": "Male",
+      "species": "Human",
+      "type": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "character": {
+      "id": "2",
+      "name": "Morty Smith",
+      "gender": "Male",
+      "species": "Human",
+      "type": ""
+    }
+  }
+}

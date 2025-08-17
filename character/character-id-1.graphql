@@ -1,0 +1,10 @@
+query {
+   character(id: 1) {
+    id
+    name
+    gender
+    species
+    type
+	gender
+  }
+}
